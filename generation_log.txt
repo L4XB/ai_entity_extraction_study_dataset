@@ -1,0 +1,262 @@
+2025-09-15 21:08:25,173 - person_generator - INFO - PersonGenerator initialisiert
+2025-09-15 21:08:25,173 - person_generator - INFO - Beginne Persona-Erstellung...
+2025-09-15 21:08:46,889 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:08:46,899 - person_generator - INFO - GPT-4 Request erfolgreich: 1089 Zeichen generiert
+2025-09-15 21:08:46,899 - person_generator - INFO - Persona erstellt: Daniel Fischer (35 Jahre)
+2025-09-15 21:08:46,899 - person_generator - INFO - Persona gespeichert: test_output/persona.json
+2025-09-15 21:08:46,899 - person_generator - INFO - Teste Lebensumstände-Generierung...
+2025-09-15 21:08:46,899 - person_generator - INFO - Generiere Lebensumstände...
+2025-09-15 21:09:05,642 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:09:05,664 - person_generator - INFO - GPT-4 Request erfolgreich: 1988 Zeichen generiert
+2025-09-15 21:09:28,895 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:09:28,904 - person_generator - INFO - GPT-4 Request erfolgreich: 2324 Zeichen generiert
+2025-09-15 21:10:02,132 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:10:02,138 - person_generator - INFO - GPT-4 Request erfolgreich: 2232 Zeichen generiert
+2025-09-15 21:12:45,797 - __main__ - INFO - PersonGenerator initialisiert
+2025-09-15 21:12:45,797 - __main__ - INFO - === Starte vollständige Personengenerierung ===
+2025-09-15 21:12:45,797 - __main__ - INFO - Beginne Persona-Erstellung...
+2025-09-15 21:12:57,448 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:12:57,460 - __main__ - INFO - GPT-4 Request erfolgreich: 1139 Zeichen generiert
+2025-09-15 21:12:57,460 - __main__ - INFO - Persona erstellt: Maximilian Breuer (35 Jahre)
+2025-09-15 21:12:57,461 - __main__ - INFO - Persona gespeichert: output/persona.json
+2025-09-15 21:12:57,461 - __main__ - INFO - Generiere Lebensumstände...
+2025-09-15 21:13:24,414 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:13:24,427 - __main__ - INFO - GPT-4 Request erfolgreich: 1609 Zeichen generiert
+2025-09-15 21:13:55,672 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:13:55,674 - __main__ - INFO - GPT-4 Request erfolgreich: 1865 Zeichen generiert
+2025-09-15 21:14:11,490 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:14:11,493 - __main__ - INFO - GPT-4 Request erfolgreich: 1462 Zeichen generiert
+2025-09-15 21:14:31,898 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:14:31,905 - __main__ - INFO - GPT-4 Request erfolgreich: 1524 Zeichen generiert
+2025-09-15 21:14:50,145 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:14:50,147 - __main__ - INFO - GPT-4 Request erfolgreich: 1656 Zeichen generiert
+2025-09-15 21:14:50,147 - __main__ - INFO - 20 Lebensumstände generiert
+2025-09-15 21:14:50,147 - __main__ - INFO - Generiere Träume...
+2025-09-15 21:15:16,166 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:15:16,185 - __main__ - INFO - GPT-4 Request erfolgreich: 1534 Zeichen generiert
+2025-09-15 21:15:57,256 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:15:57,257 - __main__ - INFO - GPT-4 Request erfolgreich: 2074 Zeichen generiert
+2025-09-15 21:16:27,158 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:16:27,167 - __main__ - INFO - GPT-4 Request erfolgreich: 1703 Zeichen generiert
+2025-09-15 21:16:53,322 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:16:53,325 - __main__ - INFO - GPT-4 Request erfolgreich: 2501 Zeichen generiert
+2025-09-15 21:16:53,325 - __main__ - INFO - 40 Träume generiert
+2025-09-15 21:16:53,325 - __main__ - INFO - Generiere Tageserlebnisse...
+2025-09-15 21:17:14,496 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:17:14,514 - __main__ - INFO - GPT-4 Request erfolgreich: 2075 Zeichen generiert
+2025-09-15 21:17:38,446 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:17:38,454 - __main__ - INFO - GPT-4 Request erfolgreich: 2015 Zeichen generiert
+2025-09-15 21:18:03,404 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:18:03,407 - __main__ - INFO - GPT-4 Request erfolgreich: 2218 Zeichen generiert
+2025-09-15 21:18:20,959 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-15 21:18:20,969 - __main__ - INFO - GPT-4 Request erfolgreich: 2073 Zeichen generiert
+2025-09-15 21:18:20,969 - __main__ - INFO - 40 Tageserlebnisse generiert
+2025-09-15 21:18:20,969 - __main__ - INFO - Beginne Audio-Generierung...
+2025-09-15 21:18:22,665 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:18:27,080 - __main__ - INFO - Audio erstellt: lebensumstaende_01.mp3 (552000 Bytes)
+2025-09-15 21:18:28,627 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:18:32,327 - __main__ - INFO - Audio erstellt: lebensumstaende_02.mp3 (396960 Bytes)
+2025-09-15 21:18:33,319 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:18:37,265 - __main__ - INFO - Audio erstellt: lebensumstaende_03.mp3 (506880 Bytes)
+2025-09-15 21:18:38,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:18:43,142 - __main__ - INFO - Audio erstellt: lebensumstaende_04.mp3 (573120 Bytes)
+2025-09-15 21:18:44,377 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:18:47,940 - __main__ - INFO - Audio erstellt: lebensumstaende_05.mp3 (622560 Bytes)
+2025-09-15 21:18:49,585 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:18:51,899 - __main__ - INFO - Audio erstellt: lebensumstaende_06.mp3 (551520 Bytes)
+2025-09-15 21:18:53,949 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:18:56,470 - __main__ - INFO - Audio erstellt: lebensumstaende_07.mp3 (566880 Bytes)
+2025-09-15 21:18:57,437 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:02,469 - __main__ - INFO - Audio erstellt: lebensumstaende_08.mp3 (612000 Bytes)
+2025-09-15 21:19:03,920 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:05,786 - __main__ - INFO - Audio erstellt: lebensumstaende_09.mp3 (497280 Bytes)
+2025-09-15 21:19:06,723 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:08,292 - __main__ - INFO - Audio erstellt: lebensumstaende_10.mp3 (418560 Bytes)
+2025-09-15 21:19:09,704 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:12,644 - __main__ - INFO - Audio erstellt: lebensumstaende_11.mp3 (430560 Bytes)
+2025-09-15 21:19:14,158 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:17,011 - __main__ - INFO - Audio erstellt: lebensumstaende_12.mp3 (491520 Bytes)
+2025-09-15 21:19:18,281 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:20,745 - __main__ - INFO - Audio erstellt: lebensumstaende_13.mp3 (560160 Bytes)
+2025-09-15 21:19:22,303 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:23,873 - __main__ - INFO - Audio erstellt: lebensumstaende_14.mp3 (453600 Bytes)
+2025-09-15 21:19:25,014 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:27,256 - __main__ - INFO - Audio erstellt: lebensumstaende_15.mp3 (493440 Bytes)
+2025-09-15 21:19:30,554 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:33,741 - __main__ - INFO - Audio erstellt: lebensumstaende_16.mp3 (450720 Bytes)
+2025-09-15 21:19:34,731 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:37,699 - __main__ - INFO - Audio erstellt: lebensumstaende_17.mp3 (616320 Bytes)
+2025-09-15 21:19:39,843 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:41,855 - __main__ - INFO - Audio erstellt: lebensumstaende_18.mp3 (516960 Bytes)
+2025-09-15 21:19:43,137 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:45,375 - __main__ - INFO - Audio erstellt: lebensumstaende_19.mp3 (517440 Bytes)
+2025-09-15 21:19:47,525 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:55,117 - __main__ - INFO - Audio erstellt: lebensumstaende_20.mp3 (482880 Bytes)
+2025-09-15 21:19:56,138 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:57,077 - __main__ - INFO - Audio erstellt: traum_01.mp3 (202560 Bytes)
+2025-09-15 21:19:57,786 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:19:59,380 - __main__ - INFO - Audio erstellt: traum_02.mp3 (180000 Bytes)
+2025-09-15 21:20:00,136 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:00,946 - __main__ - INFO - Audio erstellt: traum_03.mp3 (171360 Bytes)
+2025-09-15 21:20:02,840 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:04,206 - __main__ - INFO - Audio erstellt: traum_04.mp3 (195840 Bytes)
+2025-09-15 21:20:05,153 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:06,314 - __main__ - INFO - Audio erstellt: traum_05.mp3 (153600 Bytes)
+2025-09-15 21:20:06,955 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:08,341 - __main__ - INFO - Audio erstellt: traum_06.mp3 (183360 Bytes)
+2025-09-15 21:20:09,060 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:09,822 - __main__ - INFO - Audio erstellt: traum_07.mp3 (176640 Bytes)
+2025-09-15 21:20:10,532 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:11,699 - __main__ - INFO - Audio erstellt: traum_08.mp3 (204000 Bytes)
+2025-09-15 21:20:12,331 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:13,639 - __main__ - INFO - Audio erstellt: traum_09.mp3 (187200 Bytes)
+2025-09-15 21:20:14,413 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:15,148 - __main__ - INFO - Audio erstellt: traum_10.mp3 (173760 Bytes)
+2025-09-15 21:20:16,399 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:18,518 - __main__ - INFO - Audio erstellt: traum_11.mp3 (296640 Bytes)
+2025-09-15 21:20:19,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:21,585 - __main__ - INFO - Audio erstellt: traum_12.mp3 (311520 Bytes)
+2025-09-15 21:20:22,627 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:24,301 - __main__ - INFO - Audio erstellt: traum_13.mp3 (305760 Bytes)
+2025-09-15 21:20:25,040 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:26,206 - __main__ - INFO - Audio erstellt: traum_14.mp3 (260160 Bytes)
+2025-09-15 21:20:26,856 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:28,602 - __main__ - INFO - Audio erstellt: traum_15.mp3 (217920 Bytes)
+2025-09-15 21:20:30,492 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:31,459 - __main__ - INFO - Audio erstellt: traum_16.mp3 (216960 Bytes)
+2025-09-15 21:20:33,188 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:34,040 - __main__ - INFO - Audio erstellt: traum_17.mp3 (177600 Bytes)
+2025-09-15 21:20:35,028 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:37,288 - __main__ - INFO - Audio erstellt: traum_18.mp3 (242400 Bytes)
+2025-09-15 21:20:38,519 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:41,819 - __main__ - INFO - Audio erstellt: traum_19.mp3 (216480 Bytes)
+2025-09-15 21:20:42,499 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:44,740 - __main__ - INFO - Audio erstellt: traum_20.mp3 (256800 Bytes)
+2025-09-15 21:20:45,942 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:48,540 - __main__ - INFO - Audio erstellt: traum_21.mp3 (250080 Bytes)
+2025-09-15 21:20:49,488 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:50,864 - __main__ - INFO - Audio erstellt: traum_22.mp3 (222240 Bytes)
+2025-09-15 21:20:51,865 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:52,690 - __main__ - INFO - Audio erstellt: traum_23.mp3 (192480 Bytes)
+2025-09-15 21:20:53,935 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:55,378 - __main__ - INFO - Audio erstellt: traum_24.mp3 (230880 Bytes)
+2025-09-15 21:20:56,030 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:57,507 - __main__ - INFO - Audio erstellt: traum_25.mp3 (191520 Bytes)
+2025-09-15 21:20:58,223 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:20:59,556 - __main__ - INFO - Audio erstellt: traum_26.mp3 (181920 Bytes)
+2025-09-15 21:21:00,843 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:01,910 - __main__ - INFO - Audio erstellt: traum_27.mp3 (235680 Bytes)
+2025-09-15 21:21:02,919 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:03,873 - __main__ - INFO - Audio erstellt: traum_28.mp3 (158400 Bytes)
+2025-09-15 21:21:04,532 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:05,780 - __main__ - INFO - Audio erstellt: traum_29.mp3 (180960 Bytes)
+2025-09-15 21:21:06,752 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:08,622 - __main__ - INFO - Audio erstellt: traum_30.mp3 (201600 Bytes)
+2025-09-15 21:21:09,944 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:11,188 - __main__ - INFO - Audio erstellt: traum_31.mp3 (372480 Bytes)
+2025-09-15 21:21:12,210 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:13,866 - __main__ - INFO - Audio erstellt: traum_32.mp3 (292800 Bytes)
+2025-09-15 21:21:14,998 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:17,893 - __main__ - INFO - Audio erstellt: traum_33.mp3 (341760 Bytes)
+2025-09-15 21:21:18,650 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:20,941 - __main__ - INFO - Audio erstellt: traum_34.mp3 (276000 Bytes)
+2025-09-15 21:21:22,208 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:23,470 - __main__ - INFO - Audio erstellt: traum_35.mp3 (273120 Bytes)
+2025-09-15 21:21:24,792 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:26,094 - __main__ - INFO - Audio erstellt: traum_36.mp3 (322560 Bytes)
+2025-09-15 21:21:27,542 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:28,762 - __main__ - INFO - Audio erstellt: traum_37.mp3 (332160 Bytes)
+2025-09-15 21:21:29,446 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:31,475 - __main__ - INFO - Audio erstellt: traum_38.mp3 (261120 Bytes)
+2025-09-15 21:21:32,282 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:33,591 - __main__ - INFO - Audio erstellt: traum_39.mp3 (314400 Bytes)
+2025-09-15 21:21:34,616 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:37,295 - __main__ - INFO - Audio erstellt: traum_40.mp3 (288960 Bytes)
+2025-09-15 21:21:38,312 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:40,701 - __main__ - INFO - Audio erstellt: tag_01.mp3 (280320 Bytes)
+2025-09-15 21:21:42,013 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:43,388 - __main__ - INFO - Audio erstellt: tag_02.mp3 (280800 Bytes)
+2025-09-15 21:21:44,123 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:45,669 - __main__ - INFO - Audio erstellt: tag_03.mp3 (214080 Bytes)
+2025-09-15 21:21:46,658 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:48,018 - __main__ - INFO - Audio erstellt: tag_04.mp3 (233760 Bytes)
+2025-09-15 21:21:48,785 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:51,171 - __main__ - INFO - Audio erstellt: tag_05.mp3 (290400 Bytes)
+2025-09-15 21:21:52,401 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:53,925 - __main__ - INFO - Audio erstellt: tag_06.mp3 (262080 Bytes)
+2025-09-15 21:21:54,573 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:56,360 - __main__ - INFO - Audio erstellt: tag_07.mp3 (253920 Bytes)
+2025-09-15 21:21:57,118 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:21:58,930 - __main__ - INFO - Audio erstellt: tag_08.mp3 (226080 Bytes)
+2025-09-15 21:21:59,655 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:01,061 - __main__ - INFO - Audio erstellt: tag_09.mp3 (249600 Bytes)
+2025-09-15 21:22:01,787 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:04,083 - __main__ - INFO - Audio erstellt: tag_10.mp3 (278400 Bytes)
+2025-09-15 21:22:05,171 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:07,311 - __main__ - INFO - Audio erstellt: tag_11.mp3 (336480 Bytes)
+2025-09-15 21:22:08,528 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:10,035 - __main__ - INFO - Audio erstellt: tag_12.mp3 (232320 Bytes)
+2025-09-15 21:22:11,250 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:12,225 - __main__ - INFO - Audio erstellt: tag_13.mp3 (266400 Bytes)
+2025-09-15 21:22:13,153 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:14,822 - __main__ - INFO - Audio erstellt: tag_14.mp3 (227520 Bytes)
+2025-09-15 21:22:15,788 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:16,649 - __main__ - INFO - Audio erstellt: tag_15.mp3 (186720 Bytes)
+2025-09-15 21:22:17,426 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:20,809 - __main__ - INFO - Audio erstellt: tag_16.mp3 (272640 Bytes)
+2025-09-15 21:22:22,111 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:23,728 - __main__ - INFO - Audio erstellt: tag_17.mp3 (207840 Bytes)
+2025-09-15 21:22:24,634 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:26,126 - __main__ - INFO - Audio erstellt: tag_18.mp3 (205440 Bytes)
+2025-09-15 21:22:27,462 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:28,224 - __main__ - INFO - Audio erstellt: tag_19.mp3 (210240 Bytes)
+2025-09-15 21:22:28,964 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:30,783 - __main__ - INFO - Audio erstellt: tag_20.mp3 (285600 Bytes)
+2025-09-15 21:22:32,244 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:34,075 - __main__ - INFO - Audio erstellt: tag_21.mp3 (416160 Bytes)
+2025-09-15 21:22:35,080 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:37,421 - __main__ - INFO - Audio erstellt: tag_22.mp3 (271200 Bytes)
+2025-09-15 21:22:38,769 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:40,087 - __main__ - INFO - Audio erstellt: tag_23.mp3 (331680 Bytes)
+2025-09-15 21:22:40,949 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:41,880 - __main__ - INFO - Audio erstellt: tag_24.mp3 (259680 Bytes)
+2025-09-15 21:22:42,574 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:22:44,269 - __main__ - INFO - Audio erstellt: tag_25.mp3 (217440 Bytes)
+2025-09-15 21:22:45,161 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:35,484 - __main__ - INFO - Audio erstellt: tag_26.mp3 (269760 Bytes)
+2025-09-15 21:23:36,437 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:37,288 - __main__ - INFO - Audio erstellt: tag_27.mp3 (196800 Bytes)
+2025-09-15 21:23:40,063 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:40,995 - __main__ - INFO - Audio erstellt: tag_28.mp3 (211680 Bytes)
+2025-09-15 21:23:41,796 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:42,864 - __main__ - INFO - Audio erstellt: tag_29.mp3 (262560 Bytes)
+2025-09-15 21:23:43,817 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:45,029 - __main__ - INFO - Audio erstellt: tag_30.mp3 (267360 Bytes)
+2025-09-15 21:23:46,064 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:47,478 - __main__ - INFO - Audio erstellt: tag_31.mp3 (291360 Bytes)
+2025-09-15 21:23:48,505 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:51,606 - __main__ - INFO - Audio erstellt: tag_32.mp3 (278400 Bytes)
+2025-09-15 21:23:52,958 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:54,197 - __main__ - INFO - Audio erstellt: tag_33.mp3 (275520 Bytes)
+2025-09-15 21:23:55,060 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:56,186 - __main__ - INFO - Audio erstellt: tag_34.mp3 (281760 Bytes)
+2025-09-15 21:23:57,107 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:23:58,362 - __main__ - INFO - Audio erstellt: tag_35.mp3 (243840 Bytes)
+2025-09-15 21:23:59,102 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:24:00,894 - __main__ - INFO - Audio erstellt: tag_36.mp3 (242880 Bytes)
+2025-09-15 21:24:01,641 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:24:03,041 - __main__ - INFO - Audio erstellt: tag_37.mp3 (224160 Bytes)
+2025-09-15 21:24:04,023 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:24:06,101 - __main__ - INFO - Audio erstellt: tag_38.mp3 (245760 Bytes)
+2025-09-15 21:24:06,823 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:24:07,781 - __main__ - INFO - Audio erstellt: tag_39.mp3 (197280 Bytes)
+2025-09-15 21:24:08,486 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-09-15 21:24:10,480 - __main__ - INFO - Audio erstellt: tag_40.mp3 (278400 Bytes)
+2025-09-15 21:24:10,481 - __main__ - INFO - === Generierung abgeschlossen ===
+2025-09-15 21:24:10,481 - __main__ - INFO - Dauer: 0:11:24.683534
+2025-09-15 21:24:10,481 - __main__ - INFO - Generierte Dateien:
+2025-09-15 21:24:10,481 - __main__ - INFO -   - 1 Persona (JSON)
+2025-09-15 21:24:10,481 - __main__ - INFO -   - 20 Lebensumstände (MP3)
+2025-09-15 21:24:10,481 - __main__ - INFO -   - 40 Träume (MP3)
+2025-09-15 21:24:10,481 - __main__ - INFO -   - 40 Tageserlebnisse (MP3)
+2025-09-15 21:24:10,481 - __main__ - INFO -   - Gesamt: 101 Dateien

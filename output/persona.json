@@ -1,0 +1,35 @@
+{
+  "name": "Maximilian Breuer",
+  "alias": "Max",
+  "age": 35,
+  "hair_color": "Braun",
+  "eye_color": "Grün",
+  "height": "180cm",
+  "occupation": "Architekt",
+  "residence": "Berlin, Deutschland",
+  "personality_traits": [
+    "Strukturiert",
+    "Kreativ",
+    "Geduldig"
+  ],
+  "background": "Maximilian wurde in einer Kleinstadt in Bayern geboren und zog zum Studium nach Berlin. Nach dem Abschluss seines Architekturstudiums gründete er sein eigenes erfolgreiches Unternehmen.",
+  "relationships": {
+    "partner": "Sophia Breuer, Ehefrau",
+    "family": "Verheiratet, Vater von zwei Kindern (Lukas und Emma), jüngerer Bruder (Thomas) und Eltern (Josef und Maria) leben in Bayern",
+    "friends": "Beste Freundin seit Studienzeit, Laura Schneider, und enger Freundeskreis aus Studienkollegen"
+  },
+  "hobbies": [
+    "Fotografie",
+    "Wandern",
+    "Lesen"
+  ],
+  "fears": [
+    "Höhenangst",
+    "Angst vor dem Scheitern seiner Firma"
+  ],
+  "dreams_aspirations": [
+    "Möchte ein nachhaltiges Wohnprojekt in Berlin realisieren",
+    "Möchte seine Kinder zu selbstbewussten und glücklichen Menschen erziehen",
+    "Möchte die Welt bereisen"
+  ]
+}
